@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "name": "Sepoy Cup",
+    "year": 2026,
+    "edition": 1,
+    "game": "FC24",
+    "organizer": "fsepoy",
+    "trophy": "legacy",
+    "startDate": "2026-06-18",
+    "endDate": null
+  },
+  "groups": {
+    "A": ["croatia", "belgium", "germany"],
+    "B": ["england", "france", "argentina"]
+  },
+  "teams": {
+    "croatia":   { "name": "Croatia",   "flag": "🇭🇷", "short": "CRO" },
+    "belgium":   { "name": "Belgium",   "flag": "🇧🇪", "short": "BEL" },
+    "germany":   { "name": "Germany",   "flag": "🇩🇪", "short": "GER" },
+    "england":   { "name": "England",   "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "short": "ENG" },
+    "france":    { "name": "France",    "flag": "🇫🇷", "short": "FRA" },
+    "argentina": { "name": "Argentina", "flag": "🇦🇷", "short": "ARG" }
+  },
+  "fixtures": [
+    { "id": "GA1", "stage": "group", "group": "A", "home": "croatia",   "away": "belgium",   "date": null, "homeScore": null, "awayScore": null },
+    { "id": "GA2", "stage": "group", "group": "A", "home": "croatia",   "away": "germany",   "date": null, "homeScore": null, "awayScore": null },
+    { "id": "GA3", "stage": "group", "group": "A", "home": "belgium",   "away": "germany",   "date": null, "homeScore": null, "awayScore": null },
+    { "id": "GB1", "stage": "group", "group": "B", "home": "england",   "away": "france",    "date": null, "homeScore": null, "awayScore": null },
+    { "id": "GB2", "stage": "group", "group": "B", "home": "england",   "away": "argentina", "date": null, "homeScore": null, "awayScore": null },
+    { "id": "GB3", "stage": "group", "group": "B", "home": "france",    "away": "argentina", "date": null, "homeScore": null, "awayScore": null },
+    { "id": "SF1", "stage": "semi",  "home": "TBD", "away": "TBD", "date": null, "homeScore": null, "awayScore": null },
+    { "id": "SF2", "stage": "semi",  "home": "TBD", "away": "TBD", "date": null, "homeScore": null, "awayScore": null },
+    { "id": "3PL", "stage": "third", "home": "TBD", "away": "TBD", "date": null, "homeScore": null, "awayScore": null },
+    { "id": "FIN", "stage": "final", "home": "TBD", "away": "TBD", "date": null, "homeScore": null, "awayScore": null }
+  ],
+  "champion": null
+}
