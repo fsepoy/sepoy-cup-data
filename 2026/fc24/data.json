@@ -24,32 +24,32 @@
   "teams": {
     "croatia": {
       "name": "Croatia",
-      "flag": "🇭🇷",
+      "flag": "ð­ð·",
       "short": "CRO"
     },
     "belgium": {
       "name": "Belgium",
-      "flag": "🇧🇪",
+      "flag": "ð§ðª",
       "short": "BEL"
     },
     "germany": {
       "name": "Germany",
-      "flag": "🇩🇪",
+      "flag": "ð©ðª",
       "short": "GER"
     },
     "england": {
       "name": "England",
-      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "flag": "ð´ó §ó ¢ó ¥ó ®ó §ó ¿",
       "short": "ENG"
     },
     "france": {
       "name": "France",
-      "flag": "🇫🇷",
+      "flag": "ð«ð·",
       "short": "FRA"
     },
     "argentina": {
       "name": "Argentina",
-      "flag": "🇦🇷",
+      "flag": "ð¦ð·",
       "short": "ARG"
     }
   },
@@ -112,7 +112,7 @@
       "away": "argentina",
       "date": null,
       "homeScore": 1,
-      "awayScore": 4
+      "awayScore": 2
     },
     {
       "id": "SF1",
